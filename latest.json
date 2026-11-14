@@ -1,15 +1,12 @@
 {
-  "version": "2.4.0",
+  "version": "2.5.0",
   "date": "2026-11-14",
   "notes": [
-    "Thêm nút Kiểm tra cập nhật (bánh răng) — chỉ kiểm tra khi bạn bấm",
-    "Bộ cài .exe chuyên nghiệp, có gỡ cài đặt trong Control Panel",
-    "Convert JPG: đặt artboard vào từng ảnh sau khi rasterize",
-    "Xếp hình tiết kiệm: thử to trước / nhỏ trước / to kèm nhỏ, tối ưu thông minh hơn",
-    "Outline phong bì: thêm kiểu gập từ dưới lên, nắp Thang bo"
+    "Panel không còn chạy ngầm: chỉ làm việc với Illustrator khi bạn đang dùng (rê chuột / bấm vào panel) — hết đơ Illustrator",
+    "Áp dụng cho Sticker Layout Pro, Step & Repeat, Convert JPG, Xếp hình tiết kiệm, Đặt ốc cắt xén, Tạo đường cắt 1 dao và PrintFlow Studio"
   ],
-  "url": "https://raw.githubusercontent.com/hei909/printflow-studio-update/main/downloads/PrintFlowStudio_Setup_2.4.0.exe",
+  "url": "https://raw.githubusercontent.com/hei909/printflow-studio-update/main/downloads/PrintFlowStudio_Setup_2.5.0.exe",
   "page": "https://github.com/hei909/printflow-studio-update#readme",
-  "size": 475086,
-  "sha256": "29e5b4cee771f548447b3355a130c256cf1b9a7fb68564a94df249a371e8e074"
+  "size": 475522,
+  "sha256": "a56267f05369e7b8f9735b557488bca62ad81f244c5ea96ed25ab9e7e8068120"
 }
