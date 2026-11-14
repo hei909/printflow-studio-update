@@ -3,7 +3,8 @@
 **Prepress Automation Suite cho Adobe Illustrator** · Designed by Mr. Haii (In Thành Đạt)
 
 ## Tải bản mới nhất
-👉 **[Tải PrintFlow Studio (.exe)](https://github.com/hei909/printflow-studio-update/releases/latest)**
+👉 **[Tải PrintFlow Studio – bản mới nhất (.exe)](https://github.com/hei909/printflow-studio-update/raw/main/downloads/PrintFlowStudio_Setup.exe)**  
+Các bản theo số phiên bản: thư mục [`downloads/`](downloads)
 
 1. Lưu file và **đóng Illustrator**.
 2. Chạy `PrintFlowStudio_Setup_x.y.z.exe` → **Tiếp** → **Cài đặt** → **Hoàn tất**.
@@ -25,4 +26,4 @@ Summa Methods · Add Mark Summa · Text & Number
 
 ## Phát hành bản mới (dành cho người bảo trì)
 Thư mục `build-kit/`: `build.py VERSION "ghi chú"…` dựng bộ cài NSIS từ `src/extensions` và tạo `latest.json`.
-Sau đó tạo Release `vVERSION` đính kèm file `.exe`, rồi cập nhật `latest.json` ở nhánh `main`.
+Sau đó chép file `.exe` vào `downloads/` (cả bản có số phiên bản và `PrintFlowStudio_Setup.exe`), cập nhật `latest.json`, commit lên nhánh `main`.

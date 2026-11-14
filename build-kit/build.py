@@ -42,8 +42,8 @@ assert r.returncode == 0, "makensis failed"
 exe = "out/PrintFlowStudio_Setup_%s.exe" % ver
 data = open(exe, "rb").read()
 info = {"version": ver, "date": datetime.date.today().isoformat(), "notes": notes,
-        "url": "https://github.com/hei909/printflow-studio-update/releases/download/v%s/PrintFlowStudio_Setup_%s.exe" % (ver, ver),
-        "page": "https://github.com/hei909/printflow-studio-update/releases/tag/v%s" % ver,
+        "url": "https://raw.githubusercontent.com/hei909/printflow-studio-update/main/downloads/PrintFlowStudio_Setup_%s.exe" % ver,
+        "page": "https://github.com/hei909/printflow-studio-update#readme",
         "size": len(data), "sha256": hashlib.sha256(data).hexdigest()}
 json.dump(info, open("out/latest.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
 print(json.dumps(info, ensure_ascii=False, indent=2))

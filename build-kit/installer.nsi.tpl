@@ -12,7 +12,7 @@ SetCompressor /SOLID lzma
 !define VERSION   "@VERSION@"
 !define PUBLISHER "Mr. Haii (In Thành Đạt)"
 !define UNKEY     "Software\Microsoft\Windows\CurrentVersion\Uninstall\PrintFlowStudio"
-!define UPDPAGE   "https://github.com/hei909/printflow-studio-update/releases"
+!define UPDPAGE   "https://github.com/hei909/printflow-studio-update#readme"
 
 Name "${APPNAME} ${VERSION}"
 Caption "Cài đặt ${APPNAME} ${VERSION}"

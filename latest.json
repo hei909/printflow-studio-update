@@ -8,8 +8,8 @@
     "Xếp hình tiết kiệm: thử to trước / nhỏ trước / to kèm nhỏ, tối ưu thông minh hơn",
     "Outline phong bì: thêm kiểu gập từ dưới lên, nắp Thang bo"
   ],
-  "url": "https://github.com/hei909/printflow-studio-update/releases/download/v2.4.0/PrintFlowStudio_Setup_2.4.0.exe",
-  "page": "https://github.com/hei909/printflow-studio-update/releases/tag/v2.4.0",
-  "size": 475038,
-  "sha256": "cce0e360d390f78cd6dc5b993eab5740a14b360538dd0c36c20f353b51dc33a2"
+  "url": "https://raw.githubusercontent.com/hei909/printflow-studio-update/main/downloads/PrintFlowStudio_Setup_2.4.0.exe",
+  "page": "https://github.com/hei909/printflow-studio-update#readme",
+  "size": 475086,
+  "sha256": "29e5b4cee771f548447b3355a130c256cf1b9a7fb68564a94df249a371e8e074"
 }
